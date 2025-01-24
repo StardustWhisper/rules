@@ -1,0 +1,6 @@
+GEOSITE,cloudflare
+IP-CIDR,149.88.88.90
+DOMAIN-SUFFIX,serv00.com
+RULE-SET,apple-direct
+RULE-SET,lan-cidr
+RULE-SET,ip-cidr-text
